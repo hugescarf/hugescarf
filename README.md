@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Formal version of migraine project processing pipeline will be published here.
+So will be some other projects.
+more to come.
+
 <!--
 **hugescarf/hugescarf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
