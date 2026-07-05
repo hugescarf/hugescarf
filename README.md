@@ -1,6 +1,8 @@
 ## Hi there 👋
 I work on neuroimaging from data collection to analysis, in multimodal MRI, EEG, and PET maps. 
+
 Keywords of topics are: 
+
 Migraine, cognition, reward, learning.
 
 
