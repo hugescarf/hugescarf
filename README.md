@@ -1,8 +1,14 @@
 ## Hi there 👋
+I work on neuroimaging from data collection to analysis, in multimodal MRI, EEG, and PET maps. 
+Keywords of topics are: 
+Migraine, cognition, reward, learning.
+
 
 Formal version of migraine project processing pipeline will be published here.
 So will be some other projects.
 more to come.
+
+feel free to reach me at zlian47@uwo.ca.
 
 <!--
 **hugescarf/hugescarf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
