@@ -2,7 +2,7 @@
 I work on neuroimaging from data collection to analysis, in multimodal MRI(fMRI, DWI, structural), EEG, and PET maps. 
 
 Keywords of topics are: 
-Migraine, cognition, reward, learning.
+Migraine, cognition, learning.
 
 
 Formal version of migraine project processing pipeline will be published here.
