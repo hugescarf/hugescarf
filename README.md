@@ -6,7 +6,7 @@ Migraine; cognition; Multimodal MRI.
 
 
 Formal version of migraine project processing pipeline will be published here.
-So will be some other projects.
+So will be some other projects(REACT).
 more to come.
 
 feel free to reach me at zlian47@uwo.ca.
