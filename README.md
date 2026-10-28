@@ -1,7 +1,7 @@
 ## Hi there 👋
 I work on neuroimaging from data collection to analysis, in multimodal MRI(fMRI, DWI, structural), EEG, and PET maps. 
 
-My current keywords are: 
+Current keywords: 
 Migraine; perception & cognition; EEG; Multimodal MRI.
 
 
