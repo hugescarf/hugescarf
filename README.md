@@ -1,8 +1,8 @@
 ## Hi there 👋
 I work on neuroimaging from data collection to analysis, in multimodal MRI(fMRI, DWI, structural), EEG, and PET maps. 
 
-Keywords of topics are: 
-Migraine; cognition; Multimodal MRI.
+My current keywords are: 
+Migraine; perception & cognition; EEG; Multimodal MRI.
 
 
 Formal version of migraine project processing pipeline will be published here.
